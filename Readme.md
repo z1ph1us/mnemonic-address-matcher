@@ -144,7 +144,7 @@ Here is a complete example demonstrating the typical workflow:
     cat found_mnemonics.txt
     ```
 
-`You can easily test the tool using the small `Funded/` and `Input/` example folders with files presented in the repository. They're here for a quick test run and will output 2 matching results.`
+`You can easily test the tool using the small Funded/ and Input/ example folders with files presented in the repository. They're here for a quick test run and will output 2 matching results.`
 
 
 ### Performance Optimization Tips
