@@ -1,15 +1,16 @@
 ---
 
-# DESCRIPTION:
+# Description
+
 This high-performance tool matches cryptocurrency addresses between two datasets:
 
-* Your **mnemonic phrase list** (containing seed phrases and their associated addresses)
-* A **target address list** (containing addresses of interest)
+* Your mnemonic phrase list (containing seed phrases and their associated addresses)  
+* A target address list (containing addresses of interest)
 
 When a match is found, the tool outputs:
 
-* The **matching cryptocurrency address**
-* Its corresponding **mnemonic phrase/seed phrase**
+* The matching cryptocurrency address  
+* Its corresponding mnemonic phrase/seed phrase
 
 ---
 
