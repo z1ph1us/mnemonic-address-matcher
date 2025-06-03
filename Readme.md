@@ -1,5 +1,3 @@
----
-
 # Description
 
 This high-performance tool matches cryptocurrency addresses between two datasets:
@@ -12,7 +10,6 @@ When a match is found, the tool outputs:
 * The matching cryptocurrency address  
 * Its corresponding mnemonic phrase/seed phrase
 
----
 
 ### Key Features
 
