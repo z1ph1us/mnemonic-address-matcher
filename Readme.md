@@ -1,6 +1,6 @@
 ---
 
-## DESCRIPTION:
+# DESCRIPTION:
 This high-performance tool matches cryptocurrency addresses between two datasets:
 
 * Your **mnemonic phrase list** (containing seed phrases and their associated addresses)
