@@ -155,3 +155,12 @@ To achieve the highest possible performance from the `Crypto Mnemonic-Address Ma
 * **Utilize SSD Storage:** Storing your data files on **Solid State Drives (SSDs)** will significantly reduce file input/output times, which is critical for large datasets.
 * **Allocate Sufficient RAM:** The tool benefits greatly from available memory. It is recommended to allocate at least **4GB of RAM per parallel chunk** used for processing.
 
+## Support
+If you found this project useful and would like to encourage me to create more tools like it, consider donating:
+
+- **Bitcoin (BTC):** `bc1qg7xmlsdxfgu3muxherh4eee2ywj3gz8qfgct3s`  
+- **Ethereum (ETH):** `0x1B449E1D545bD0dc50f361d96706F6C904553929`  
+- **Solana (SOL):** `F776tt1it7vifCzD9icrsby3ujkZdJ8EY9917GUM3skr`  
+- **Tron (TRX):** `TJj96B4SukPJSC4M2FyssoxduVyviv9aGr`  
+- **Polygon (POL):** `0x1B449E1D545bD0dc50f361d96706F6C904553929`  
+- **Monero (XMR):** `48aaDb1g4Ms7PB3WMj6ttbMWuEwe171d6Yjao59uFJR38tHa75nKwPqYoPAYmWZPUhXmDbDvqtE6d2FX3YaF1dVE7zhD9Dt`  
